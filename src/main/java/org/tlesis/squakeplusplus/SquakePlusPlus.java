@@ -7,10 +7,10 @@ import org.apache.logging.log4j.Logger;
 import org.tlesis.squakeplusplus.config.SquakeOptions;
 
 public class SquakePlusPlus implements ModInitializer {
-    public static final String MOD_ID = "squakeplusplus";
+    public static final String MOD_ID = "squakemcsr";
     public static final Logger logger = LogManager.getLogger(MOD_ID);
     public static final String MOD_VERSION = FabricLoader.getInstance().getModContainer(MOD_ID).get().getMetadata().getVersion().getFriendlyString();
-    public static final String MOD_NAME = "Squake++";
+    public static final String MOD_NAME = "Squake MCSR";
 
     @Override
     public void onInitialize() {
