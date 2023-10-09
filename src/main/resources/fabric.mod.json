@@ -1,9 +1,9 @@
 {
     "schemaVersion": 1,
-    "id": "squakeplusplus",
-    "name": "Squake++",
+    "id": "squakemcsr",
+    "name": "Squake MCSR",
     "version": "${version}",
-    "description": "Squake++ is an improved version of Squake for Fabric",
+    "description": "Squake MCSR is a speedrun version of Squake++",
     "authors": [
         "He11crow",
         "Tlesis",
